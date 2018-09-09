@@ -1,2 +1,4 @@
 # Hello-World
-first
+ first - look around - look before and after
+ second - write a project
+
